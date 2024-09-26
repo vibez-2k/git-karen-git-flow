@@ -6,9 +6,12 @@ const Feed = () => {
   return (
     <div style={{ flex: 1 }}>
       <CreatePost />
-      <Post text="Hello World!" />
+      <Post text="Hello karens!" />
+      <Post text="hello Face Book" />
       <Post text="This is my first post!" />
-      <Post text="React and Material-UI are awesome!" />
+      <Post text="may be React and Material-UI are awesome!" />
+      <Post text="I love React" />
+      <Post text="i dont know" />
     </div>
   );
 };
