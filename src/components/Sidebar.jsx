@@ -13,25 +13,25 @@ const Sidebar = () => {
           <ListItemIcon>
             <HomeIcon />
           </ListItemIcon>
-          <ListItemText primary="Home" />
+          <ListItemText primary="feed" />
         </ListItem>
         <ListItem button>
           <ListItemIcon>
             <GroupIcon />
           </ListItemIcon>
-          <ListItemText primary="Friends" />
+          <ListItemText primary="followers" />
         </ListItem>
         <ListItem button>
           <ListItemIcon>
             <MessageIcon />
           </ListItemIcon>
-          <ListItemText primary="Messages" />
+          <ListItemText primary="chats" />
         </ListItem>
         <ListItem button>
           <ListItemIcon>
             <EventIcon />
           </ListItemIcon>
-          <ListItemText primary="Events" />
+          <ListItemText primary="rizz" />
         </ListItem>
       </List>
     </div>
